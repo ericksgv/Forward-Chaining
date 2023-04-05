@@ -1,0 +1,8 @@
+Z & L => S
+A & N => E
+D | M => Z
+A => M
+Q & -W & -Z => N
+L & M => E
+B & C => Q
+#A,L
